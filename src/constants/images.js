@@ -22,6 +22,8 @@ import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import indianlogo from '../assets/indian.jpg';
 import indianlogo2 from '../assets/indian2.png'
+import indianlogo3 from '../assets/indian 3.png'
+import indianlogo4 from '../assets/indian5.jpg'
 
 export default {
   bg,
@@ -48,4 +50,6 @@ export default {
   gericht,
   indianlogo,
   indianlogo2,
+  indianlogo3,
+  indianlogo4,
 };
