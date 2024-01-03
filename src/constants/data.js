@@ -1,56 +1,56 @@
 import images from './images';
 
-const wines = [
+const mocktails= [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'Virgin Mojito',
+    price: '$10',
+    tags: 'Refreshing, Minty Bliss',
   },
   {
-    title: 'Catena Malbee',
+    title: 'Blue Lagoon',
     price: '$59',
-    tags: 'AU | Bottle',
+    tags: 'Tropical Elegance, Citrus Delight',
   },
   {
-    title: 'La Vieillw Rose',
+    title: 'Cucumber Basil Sparkler',
     price: '$44',
-    tags: 'FR | 750 ml',
+    tags: 'Crisp & Cool, Herbal Fusion',
   },
   {
-    title: 'Rhino Pale Ale',
+    title: 'Strawberry Basil Lemonade',
     price: '$31',
-    tags: 'CA | 750 ml',
+    tags: 'Sweet Symphony, Berry Burst',
   },
   {
-    title: 'Irish Guinness',
+    title: 'Classic Martini',
     price: '$26',
-    tags: 'IE | 750 ml',
+    tags: 'Timeless Elegance, Gin Perfection',
   },
 ];
 
 const cocktails = [
   {
-    title: 'Aperol Sprtiz',
+    title: 'Mango Margarita',
     price: '$20',
     tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
   },
   {
-    title: "Dark 'N' Stormy",
+    title: "Old Fashioned Elegance",
     price: '$16',
     tags: 'Dark rum | Ginger beer | Slice of lime',
   },
   {
-    title: 'Daiquiri',
+    title: 'Passionfruit Caipirinha',
     price: '$10',
     tags: 'Rum | Citrus juice | Sugar',
   },
   {
-    title: 'Old Fashioned',
+    title: 'Raspberry Rose Fizz',
     price: '$31',
     tags: 'Bourbon | Brown sugar | Angostura Bitters',
   },
   {
-    title: 'Negroni',
+    title: 'Smoky Maple ',
     price: '$26',
     tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
   },
@@ -79,4 +79,4 @@ const awards = [
   },
 ];
 
-export default { wines, cocktails, awards };
+export default { mocktails, cocktails, awards };
