@@ -15,6 +15,7 @@
 
     min-width: 500px;
     padding-right: 2rem;
+    padding-left: 1rem;
 }
 .app__gallery-content button{
     margin-top: 1rem;
@@ -128,6 +129,7 @@
    
 .app__gallery-content{
     min-width: 100%;
+   
 }
 
      .app__gallery-images_card{
