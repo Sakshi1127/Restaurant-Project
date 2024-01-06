@@ -28,7 +28,7 @@ const scroll=(direction)=>{
     <div className="app__gallery-content">
       <SubHeading title='Instagram'/>
         <h1 className="headtext__cormorant"> Photo Gallery</h1>
-        <p className="p__opensans" style={{color:'#AAA' ,marginTop:'2rem'}}>Explore our photo gallery and visually savor the artistry behind each dish, capturing the essence of our culinary journey in vibrant snapshots.</p>
+        <p className="p__opensans" style={{color:'#AAA' ,marginTop:'2rem'}}>Feast your eyes on moments of joy and culinary brilliance.</p>
         <button type="button" className="custom__button">View More</button>
     </div>
 

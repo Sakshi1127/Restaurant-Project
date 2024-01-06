@@ -13,7 +13,7 @@ const Header = (props) => (
     </div>
 
     <div className='app__wrapper_img'>
-     <img src={images.welcome} alt="hearder image" />
+     <img src={images.welcome} alt="hearder" />
     </div>
 
 
