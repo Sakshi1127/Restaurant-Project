@@ -66,7 +66,7 @@ const[toggleMenu,setToggleMenu]= useState(false);
             <a href="#menu">Menu</a>
           </li>
           <li className="p__opensans">
-            <a href="#awards">Awards</a>
+            <a href="#awards">Gallery</a>
           </li>
           <li className="p__opensans">
             <a href="#contact">Contact</a>
